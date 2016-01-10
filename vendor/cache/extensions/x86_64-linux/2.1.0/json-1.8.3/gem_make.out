@@ -1,0 +1,14 @@
+current directory: /home/patriot/workspace/sample_app/vendor/cache/gems/json-1.8.3/ext/json
+/usr/bin/ruby2.1 -r ./siteconf20160109-2182-1lkfoxu.rb extconf.rb
+creating Makefile
+
+current directory: /home/patriot/workspace/sample_app/vendor/cache/gems/json-1.8.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/patriot/workspace/sample_app/vendor/cache/gems/json-1.8.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/patriot/workspace/sample_app/vendor/cache/gems/json-1.8.3/ext/json
+make "DESTDIR=" install
+installing default libraries
